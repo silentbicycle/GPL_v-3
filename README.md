@@ -1,4 +1,4 @@
-This is the GNU GPL, Version 3, *remixed*.
+This is the GNU GPL, Version 3, *remixed* (with a markov chain).
 
 If you release any software under this license, please let me know!
 (Preferably before you do it, so I can dissuade you.)
